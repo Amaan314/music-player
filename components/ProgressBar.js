@@ -1,4 +1,3 @@
-// components/ProgressBar.js
 import React, { useRef } from "react";
 
 // Component for the audio progress bar and time display

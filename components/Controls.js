@@ -1,4 +1,3 @@
-// components/Controls.js
 import React from "react";
 import { Play, Pause, SkipBack, SkipForward } from "lucide-react";
 

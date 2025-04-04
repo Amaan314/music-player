@@ -1,4 +1,3 @@
-// components/SongInfo.js
 import React from "react";
 
 // Component to display the currently playing song's title and artist

@@ -1,4 +1,3 @@
-// components/SongList.js
 import React from "react";
 import { Music2, Trash2 } from "lucide-react";
 
